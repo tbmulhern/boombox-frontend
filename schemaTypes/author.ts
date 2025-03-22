@@ -12,7 +12,7 @@ export default defineType({
     }),
     defineField({
       name: 'slug',
-      title: 'Slugs',
+      title: 'Slugies',
       type: 'slug',
       options: {
         source: 'name',
